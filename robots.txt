@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iohangp.github.io/archive-ogjtw0/sitemap.xml
